@@ -21,6 +21,7 @@ Este repositorio contiene mis soluciones para los ejercicios de CodeSignal organ
     - [Intro Gates](Arcade/TheCore/IntroGates)
     - [At the Crossroads](Arcade/TheCore/AtTheCrossroads)
     - [Corner of 0s and 1s](Arcade/TheCore/CornerOf0sAnd1s)
+    - [Loop Tunnel](Arcade/TheCore/LoopTunnel)
 
 
 
